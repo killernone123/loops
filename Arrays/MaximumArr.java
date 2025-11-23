@@ -1,5 +1,3 @@
-package Array;
-
 public class MaximumArr {
     public static void main(String[] args) {
         // how do you find ythe amximum element in an array in java?
