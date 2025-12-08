@@ -1,5 +1,7 @@
 public class concatenateArr {
     public static void main(String[] args) {
+
+        // How do you concatenate two arrays in Java?
         int[] arr = { 2, 3, 2, 4, 5 };
         int[] arr2 = { 23, 4, 5, 6 };
 

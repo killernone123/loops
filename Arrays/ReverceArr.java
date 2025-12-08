@@ -1,4 +1,4 @@
-public class ReverseArr {
+public class ReverceArr {
     public static void main(String[] args) {
         // reverse an array in java
         int[] arr = { 1, 2, 3, 4, 5 };
@@ -19,3 +19,4 @@ public class ReverseArr {
         }
     }
 }
+
