@@ -5,7 +5,6 @@ public class Reverse {
         Reverseself(arr);
         // int[] res2 = reverse(arr);
         System.err.println(java.util.Arrays.toString(arr));
-      
 
     }
 
