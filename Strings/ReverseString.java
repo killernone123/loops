@@ -14,16 +14,16 @@ public class ReverseString {
         if (str.length() == 0 || str.length() == 1) {
             return str;
         }
-        String ans = "";
+        StringBuilder sb = new StringBuilder("");
 
         for (int i = str.length() - 1; i >= 0; i--) {
             char ch = str.charAt(i);
-            ans = ans + ch;
+            sb.append(ch);
         }
 
         // TimeComlexity = O(n)
         // SpaceComplexity = O(n)
 
-        return ans;
+        return sb.toString();
     }
 }
